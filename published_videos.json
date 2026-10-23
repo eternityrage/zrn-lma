@@ -3966,5 +3966,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-6f4f36ef-3949-42cd-a7d4-be531b658021-720p.mp4",
+        "metadata": {
+            "title": "How to Elevate Your Style on Any Budget",
+            "description": "Your style is your signature \u2014 it tells your story before you say a word. Whether you love minimal, bold, classic, or trend-forward, wear what makes you feel alive. Fashion is self-expression, and there are no mistakes, only choices. Share this with someone whose style you love! \ud83d\udcab #fashion #selfexpression #personalstyle #styleinspiration #trendy #fashionista #zoraniluma",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
