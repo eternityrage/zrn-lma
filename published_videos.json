@@ -4046,5 +4046,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f454ef32-5cac-44a5-a5e2-599f52a2e62f.mp4",
+        "metadata": {
+            "title": "Minimal Wardrobe, Maximum Impact",
+            "description": "Beauty doesn't have one standard \u2014 it has infinite shades and shapes. From every skin tone to every curl pattern, beauty is diverse, and you belong in that picture. Stop comparing, start celebrating. You're the muse. Drop a \ud83c\udf0d if you embrace beauty in every shade! #beautyinallshades #diversity #inclusivebeauty #selflove #naturalbeauty #confidence #zoraniluma",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
